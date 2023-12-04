@@ -63,4 +63,4 @@ jobs:
           app-name: 'onlineambulancebookingservicemaster'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_CD51A4A01E634F029AB116DAB9DFB5ED }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_3D24E6AD9CA84A2C8A3CF0ADA518CED2 }}
